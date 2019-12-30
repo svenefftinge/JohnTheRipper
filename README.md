@@ -5,6 +5,7 @@
 [![LoC](https://tokei.rs/b1/github/magnumripper/JohnTheRipper?category=code)](https://github.com/magnumripper/JohnTheRipper/tree/bleeding-jumbo)
 [![Contributors](https://img.shields.io/github/contributors/magnumripper/JohnTheRipper.svg?label=Contributors)](https://github.com/magnumripper/JohnTheRipper/graphs/contributors)
 [![Search hit](https://img.shields.io/github/search/magnumripper/JohnTheRipper/goto.svg?label=GitHub%20Hits)](https://github.com/search?utf8=%E2%9C%93&q=john%20the%20ripper&type=)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/magnumripper/JohnTheRipper)
 
 John the Ripper
 ===============
